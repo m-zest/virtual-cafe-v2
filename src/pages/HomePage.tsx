@@ -28,7 +28,7 @@ export default function HomePage() {
         style={{ filter: 'brightness(0.4)' }}
       >
         <source
-          src="https://cdn.coverr.co/videos/coverr-a-coffee-shop-2741/1080p.mp4"
+          src="/cover.mp4"
           type="video/mp4"
         />
         Your browser does not support the video tag.
